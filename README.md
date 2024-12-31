@@ -20,6 +20,11 @@
 ## 演示
 
 ### 第一部分
+```
+视频播放密码：bywswjc
+演示视频链接：https://v.youku.com/v_show/id_XNjQ0Nzk1MDg2OA==.html
+```
+<a href="https://v.youku.com/v_show/id_XNjQ0Nzk1MDg2OA==.html">演示视频播放</a>
 
 <video width="320" height="240" controls>
   <source src="static/demo/part1.mp4"  type="video/mp4">
@@ -29,5 +34,5 @@
 
 ### 第二部分
 
-![image](static/systempic/A.jpg)
+![image](static/systempic/videopassword.png)
 
