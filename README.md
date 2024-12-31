@@ -26,11 +26,7 @@
 ```
 <a href="https://v.youku.com/v_show/id_XNjQ0Nzk1MDg2OA==.html">演示视频播放</a>
 
-<video width="320" height="240" controls>
-  <source src="static/demo/part1.mp4"  type="video/mp4">
-  您的浏览器不支持 HTML5 video 标签。
-</video>
-
+![Sample Video](static/demo/part1.mp4)
 
 ### 第二部分
 
